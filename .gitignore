@@ -11,3 +11,7 @@
 
 # Autorouter files (exported from Pcbnew)
 .dsn
+
+rc2014/meta/\.DS_Store
+
+\.DS_Store
